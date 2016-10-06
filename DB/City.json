@@ -1,0 +1,81 @@
+[
+/* 0 */
+{
+    "_id" : "jktbrt",
+    "name" : "Jakarta Barat",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "jkt"
+    }
+},
+
+/* 1 */
+{
+    "_id" : "jktpst",
+    "name" : "Jakarta Pusat",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "jkt"
+    }
+},
+
+/* 2 */
+{
+    "_id" : "jkttmr",
+    "name" : "Jakarta Timur",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "jkt"
+    }
+},
+
+/* 3 */
+{
+    "_id" : "jktutr",
+    "name" : "Jakarta Utara",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "jkt"
+    }
+},
+
+/* 4 */
+{
+    "_id" : "jktslt",
+    "name" : "Jakarta Selatan",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "jkt"
+    }
+},
+
+/* 5 */
+{
+    "_id" : "bdgkot",
+    "name" : "Bandung Kota",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "bdg"
+    }
+},
+
+/* 6 */
+{
+    "_id" : "bdgutr",
+    "name" : "Bandung Utara",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "bdg"
+    }
+},
+
+/* 7 */
+{
+    "_id" : "bdgslt",
+    "name" : "Bandung Selatan",
+    "state" : {
+        "$ref" : "State",
+        "$id" : "bdg"
+    }
+}
+]

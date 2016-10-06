@@ -1,0 +1,12 @@
+[
+{'_id':'AT001','name':'Analyst','desc':'Analyst'},
+{'_id':'AT002','name':'Competitor','desc':'Competitor'},
+{'_id':'AT003','name':'Customer','desc':'Customer'},
+{'_id':'AT004','name':'Integrator','desc':'Integrator'},
+{'_id':'AT005','name':'Investor','desc':'Investor'},
+{'_id':'AT006','name':'Partner','desc':'Partner'},
+{'_id':'AT007','name':'Press','desc':'Press'},
+{'_id':'AT008','name':'Prospect','desc':'Prospect'},
+{'_id':'AT009','name':'Reseller','desc':'Reseller'},
+{'_id':'AT010','name':'Other','desc':'Other'}
+]

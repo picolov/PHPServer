@@ -1,0 +1,13 @@
+[
+/* 0 */
+{
+    "_id" : "id",
+    "name" : "Indonesia"
+},
+
+/* 1 */
+{
+    "_id" : "us",
+    "name" : "United State Of America"
+}
+]

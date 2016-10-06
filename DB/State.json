@@ -1,0 +1,41 @@
+[
+/* 0 */
+{
+    "_id" : "jkt",
+    "name" : "Jakarta",
+    "country" : {
+        "$ref" : "Country",
+        "$id" : "id"
+    }
+},
+
+/* 1 */
+{
+    "_id" : "bdg",
+    "name" : "Bandung",
+    "country" : {
+        "$ref" : "Country",
+        "$id" : "id"
+    }
+},
+
+/* 2 */
+{
+    "_id" : "hst",
+    "name" : "Houston",
+    "country" : {
+        "$ref" : "Country",
+        "$id" : "us"
+    }
+},
+
+/* 3 */
+{
+    "_id" : "la",
+    "name" : "Los Angeles",
+    "country" : {
+        "$ref" : "Country",
+        "$id" : "us"
+    }
+}
+]
