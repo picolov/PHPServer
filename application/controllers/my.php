@@ -1394,7 +1394,7 @@ class My extends REST_Controller {
 			} else {
 				$output = ['status' => 1, 'message' => 'successfuly executed'];
 			}
-			return $output;
+			echo json_encode($output);
 		} else {
 			header('Cache-Control: must-revalidate');
 			header('Pragma: public');
